@@ -1,0 +1,1 @@
+dotnet aspnet-codegenerator razorpage -m Student -dc ApplicationDbContext -udl -outDir Pages/StudentPages --referenceScriptLibraries
